@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nagesh Gupta
 
-Welcome to my GitHub! I’m a curious and driven **Machine Learning Engineer** with over 3.5 years of hands-on experience building scalable, production-ready ML systems. I hold a Master’s in Advanced Computer Science with Distinction from Oxford Brookes University and am passionate about applying intelligent automation to solve real-world challenges.
+Welcome to my GitHub! I’m a curious and driven **Data Scientist** with over 3.5 years of hands-on experience building scalable, production-ready ML systems. I hold a Master’s in Advanced Computer Science with Distinction from Oxford Brookes University and am passionate about applying intelligent automation to solve real-world challenges.
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m a curious and driven **Machine Learning Engineer** w
 
 ## 🚀 Projects
 
-### 🔷 Doc-Query (GenAI / RAG)
+### 🔷 Doc-Query (GenAI / RAG / NLP / LLM)
 A personalized question-answering system using LLaMA-2, LangChain, and FAISS.
 - ⚡ Reduces query response time by 30%
 - 🧠 Focus: Generative AI, RAG, Large Language Models
