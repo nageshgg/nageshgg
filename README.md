@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nagesh Gupta
 
-Welcome to my GitHub! I’m a curious and driven **Data Scientist** with over 3.5 years of hands-on experience building scalable, production-ready ML systems. I hold a Master’s in Advanced Computer Science with Distinction from Oxford Brookes University and am passionate about applying intelligent automation to solve real-world challenges.
+Welcome to my GitHub! I’m a curious and driven **Data Scientist** with almost 4 years of hands-on experience building scalable, production-ready ML systems. I hold a Master’s in Advanced Computer Science with Distinction from Oxford Brookes University and am passionate about applying intelligent automation to solve real-world challenges.
 
 ---
 
