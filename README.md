@@ -1,16 +1,23 @@
 # 👋 Hi, I'm Nagesh Gupta
 
-Welcome to my GitHub! I’m a curious and driven **Data Scientist** with almost 4 years of hands-on experience building scalable, production-ready ML systems. I hold a Master’s in Advanced Computer Science with Distinction from Oxford Brookes University and am passionate about applying intelligent automation to solve real-world challenges.
+Welcome to my GitHub!
+I’m passionate about the latest trends in Artificial Intelligence and currently transitioning from a full-stack developer role into data science and machine learning. My journey from building responsive web applications to developing robust APIs and managing databases combined with my interest in creating data-driven solutions, has given me a unique blend of software engineering expertise and analytical thinking.
 
 ---
 
 ## 🧠 About Me
 
-- 🔍 Experienced in NLP, Time Series Forecasting, and Optimization
-- 🛠️ Languages & Tools: Python, PyTorch, SQL, REST APIs, FastAPI, Docker, Azure
-- 🌐 Built end-to-end MLOps pipelines and deployed real-time ML services
-- 📚 Currently exploring GenAI & Retrieval-Augmented Generation (RAG)
-- 🤝 Always open to collaboration, learning, and innovative ideas!
+💡 Strong background in full-stack development, now focused on data science & AI
+
+🛠️ Skills: Python, Pandas, NumPy, Scikit-learn, SQL, REST APIs, FastAPI, Docker
+
+📊 Experienced in data visualization, statistics, and machine learning algorithms
+
+🌐 Exploring Predictive Analytics, NLP, Large Language Models (LLMs), Agentic AI, and AI-driven applications
+
+🚀 Interested in applying mathematical concepts to solve real-world problems
+
+🤝 Open to collaborations on data science, machine learning, and AI projects
 
 ---
 
@@ -26,15 +33,6 @@ A sports analytics project using YOLOv5 and OpenCV for object detection.
 - 🏀 Detects and tracks balls in real time
 - 🔧 Focus: Computer Vision, Deep Learning
 
-### 💎 Diamond – MLOps Document Pipeline (DXC Technology)
-Built a scalable document classification system using Azure and Python.
-- 💸 Reduced processing costs by 90%
-- 🛠️ Tools: Azure Functions, Cosmos DB, FastAPI
-
-### 🧠 LaviOsa – ML Loan Decision Engine (Lentra AI)
-A smart decision engine that cut loan approval time by 50%.
-- 🤖 Used Random Forests and Experian APIs
-- 🔍 Focus: Credit Scoring, Financial AI
 
 ---
 
