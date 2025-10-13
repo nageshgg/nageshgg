@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nagesh Gupta - Data Scientist & Machine Learning Engineer
 
-Welcome to my portfolio! I am a **Data Scientist** and **ML Engineer** with a **Master's in Advanced Computer Science (Distinction)** and 3 years of experience as a **Full-Stack Developer**.
+Welcome to my portfolio! I am a **Data Scientist** and **ML Engineer** with a **Master's in Advanced Computer Science (Distinction)** and 4 years of experience as a **Full-Stack Developer and data scientist**.
 
 My work focuses on bridging the gap between sophisticated machine learning models and production-ready applications, leveraging my engineering background for robust MLOps and deployment.
 
