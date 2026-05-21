@@ -14,6 +14,7 @@ My work focuses on bridging the gap between sophisticated machine learning model
 | **Machine Learning** | Scikit-learn, Classification, Regression, Predictive Analytics |
 | **Deep Learning** | **TensorFlow, PyTorch**, YOLOv5, Neural Networks, Computer Vision |
 | **Natural Language Processing** | **LLMs (Large Language Models)**, LangChain, RAG, NLP, Agentic AI |
+| **Frontend** | Angular, ReactJs, Typescript |
 | **Deployment / MLOps** | **FastAPI**, Docker, REST APIs, Cloud (AWS/GCP knowledge) |
 
 ---
