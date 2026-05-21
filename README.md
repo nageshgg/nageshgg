@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nagesh Gupta - Data Scientist & Machine Learning Engineer
+# 👋 Hi, I'm Nagesh Gupta - AI/ML Engineer | Full Stack Developer
 
 Welcome to my portfolio! I am a **Data Scientist** and **ML Engineer** with a **Master's in Advanced Computer Science (Distinction)** and 4 years of experience as a **Full-Stack Developer and data scientist**.
 
